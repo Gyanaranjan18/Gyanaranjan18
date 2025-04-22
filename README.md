@@ -13,7 +13,9 @@
 
 
 name: Gyanaranjan Swain
+
 role: Java Fullstack Developer
+
 skills:
   - Java, Spring Boot, Hibernate
   - Servlets, JSP, JDBC, RESTful APIs
