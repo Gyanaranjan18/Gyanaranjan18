@@ -14,9 +14,9 @@
 
 - 🔭 I’m currently working on **Microservices-based Temple Management System**
 - 🌱 I’m learning **Cloud Deployments & DevOps**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://yourportfolio.link)
-- 💬 Ask me about **Java, Spring Boot, REST APIs, JSP, Servlets, Hibernate, MySQL, JavaScript, React**
-- 📫 How to reach me: **your.email@example.com**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/Gyanaranjan18)
+- 💬 Ask me about **Java, Spring Boot, REST APIs, JSP, Servlets, Hibernate, MySQL, 
+- 📫 How to reach me: swaingyanaranjan20@gmail.com
 - ⚡ Fun fact: I write code faster after a cup of chai ☕😉
 
 ---
