@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm [Gyanaranjan Swain]</h1>
 <h3 align="center">A Passionate Java Fullstack Developer</h3>
