@@ -15,8 +15,8 @@
 Name: Gyanaranjan Swain
 
 Role: Java Fullstack Developer
-Expertise:
 
+Expertise:
   - Spring Boot, Microservices, REST APIs
   - ReactJS, JavaScript, HTML/CSS
   - MySQL, Docker, Git, IntelliJ
