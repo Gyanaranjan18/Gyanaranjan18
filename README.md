@@ -12,10 +12,11 @@
 ## 🧙‍♂️ About Me
 
 
-Name: Gyanaranjan
+Name: Gyanaranjan Swain
 
 Role: Java Fullstack Developer
 Expertise:
+
   - Spring Boot, Microservices, REST APIs
   - ReactJS, JavaScript, HTML/CSS
   - MySQL, Docker, Git, IntelliJ
