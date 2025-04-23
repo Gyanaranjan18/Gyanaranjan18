@@ -1,5 +1,5 @@
 # **🚀 Gyanaranjan Swain
-I am a Java Full Stack Developer**  
+
 
 <div align="center">
 
@@ -58,11 +58,7 @@ I am a Java Full Stack Developer**
 ## **💼 Featured Projects**
 
 ### **🎓 Student Management System**  
-✔ **Tech Stack:** Spring Boot, React, MySQL  
-✔ **Features:**  
-- RESTful APIs for CRUD operations  
-- JWT Authentication  
-- Responsive UI with React & Bootstrap  
+✔ **Tech Stack:** Core java+JDBC 
 
 🔗 **[View Project](#)** | 📂 **[GitHub Repo](#)**  
 
@@ -100,13 +96,13 @@ If you like my work, consider supporting me!
 ## **📬 Let's Connect!**  
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/gyana18/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/yourprofile">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:swaingyanaranjan20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
