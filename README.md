@@ -1,6 +1,6 @@
-<!-- README.md -->
 
-<!-- ANIMATED TYPING HEADER -->
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hey,+I'm+Gyanaranjan+👋;Java+Fullstack+Developer;Spring+Boot+%7C+Microservices+%7C+React+Expert;I+build+backend+engines+and+frontend+magic.;Let's+create+legendary+projects+together!" />
 </h1>
@@ -32,5 +32,5 @@ ChaiLevel: ☕☕☕☕☕ (Certified Chai-driven dev)
 <p align="center"> ⚡ Coming soon: I’m cooking some amazing projects — stay tuned! </p> <!-- You can add your GitHub projects like this later: <a href="https://github.com/Gyanaranjan18/project-name"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gyanaranjan18&repo=project-name&theme=tokyonight" /> </a> -->
 📫 Let's Connect
 <p align="center"> <a href="https://linkedin.com/in/gyana18"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a> <a href="mailto:swaingyanaranjan20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" /></a> </p>
-<!-- FOOTER WAVE --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" /> </p> ```
+ FOOTER WAVE --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" /> </p> ```
 
