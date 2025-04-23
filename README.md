@@ -1,70 +1,36 @@
-<!-- 🌟 ANIMATED INTRO HEADER -->
+<!-- README.md -->
+
+<!-- ANIMATED TYPING HEADER -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hey,+I'm+Gyanaranjan+👋;Java+Fullstack+Developer;Spring+Boot+%7C+Microservices+%7C+React+Expert;I+build+backend+engines+and+frontend+magic.;Let's+create+legendary+projects+together!" />
+</h1>
+
+<!-- WAVE BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=16F7D1&center=true&vCenter=true&width=800&height=60&lines=Namaste+🙏+I'm+Gyanaranjan18;Java+Full+Stack+Developer+☕;Spring+Boot+%7C+Hibernate+%7C+React;Microservices+%7C+AWS+%7C+Docker;Building+Scalable+Enterprise+Solutions;Open+to+Collaborate+on+Exciting+Projects!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20My%20GitHub&fontAlignY=35&color=gradient&customColorList=0,2,3,4,5,6,7" />
 </p>
 
-<!-- 🚀 ANIMATED BANNER -->
-<p align="center">
-  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="500" alt="Coding Animation"/>
-</p>
+---
 
-# 💻 Tech Stack
+## 🧙‍♂️ About Me
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+Name: Gyanaranjan
+Role: Java Fullstack Developer
+Expertise:
+  - Spring Boot, Microservices, REST APIs
+  - ReactJS, JavaScript, HTML/CSS
+  - MySQL, Docker, Git, IntelliJ
+FunFact: Loves building scalable apps ⚙️
+ChaiLevel: ☕☕☕☕☕ (Certified Chai-driven dev)
+⚙️ Tech Arsenal
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,js,html,css,mysql,docker,git,github,vscode,intellij" /> </p>
+📊 GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gyanaranjan18&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="180px"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Gyanaranjan18&theme=tokyonight&hide_border=true" height="180px"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanaranjan18&layout=compact&theme=tokyonight&hide_border=true" height="150px"/> </p>
 
-### DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+🚀 Featured Projects
+<p align="center"> ⚡ Coming soon: I’m cooking some amazing projects — stay tuned! </p> <!-- You can add your GitHub projects like this later: <a href="https://github.com/Gyanaranjan18/project-name"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gyanaranjan18&repo=project-name&theme=tokyonight" /> </a> -->
+📫 Let's Connect
+<p align="center"> <a href="https://linkedin.com/in/gyana18"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a> <a href="mailto:swaingyanaranjan20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" /></a> </p>
+<!-- FOOTER WAVE --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" /> </p> ```
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gyanaranjan18&show_icons=true&theme=radical" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gyanaranjan18&theme=radical" alt="GitHub Streak" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanaranjan18&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-# 🚀 Projects
-
-### ✅ Completed Project
-**Student Management System**  
-- Spring Boot backend with REST APIs
-- React frontend with responsive design
-- MySQL database integration
-- JWT authentication
-
-### 🔧 Currently Working On
-**Card Service Details System**  
-- Microservices architecture
-- Spring Cloud implementation
-- React dashboard for analytics
-- AWS deployment
-
-# ☕ Chai Break!
-
-_"Code runs better when fueled by chai!"_  
-<a href="https://www.buymeacoffee.com/gyanaranjan" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Chai" height="40">
-</a>
-
-# 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gyanaranjan18)
-
-<!-- 🎉 FOOTER ANIMATION -->
-<p align="center">
-  <img src="https://media.giphy.com/media/LnUtXr3xT2uk2wOZ5s/giphy.gif" width="200" alt="Coding Footer"/>
-</p>
