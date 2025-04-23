@@ -7,11 +7,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&height=60&lines=Hello+World!+👋+I'm+Gyanaranjan18;Java+Full+Stack+Developer+🚀;Spring+Boot+%7C+React+%7C+Microservices;Cloud+%7C+DevOps+%7C+Clean+Code;Let's+build+something+amazing+together!" alt="Typing SVG" />
 
 <!-- **🔥 Dynamic Banner 🔥** -->  
-<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="600" alt="Coding Animation" />
+<!--<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="600" alt="Coding Animation" />
 
 </div>
 
----
+--->
 
 ## **🛠️ Tech Stack & Tools**
 
