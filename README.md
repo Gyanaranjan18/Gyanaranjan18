@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=16F7D1&center=true&vCenter=true&width=800&height=60&lines=Namaste+🙏+I'm+Gyanaranjan18;Java+Full+Stack+Developer+☕;Spring+Boot+%7C+Hibernate+%7C+React;Microservices+%7C+AWS+%7C+Docker;Building+Scalable+Enterprise+Solutions;Open+to+Collaborate+on+Exciting+Projects!" alt="Typing SVG" />
 </p>
 
-
 <!-- 🚀 ANIMATED BANNER -->
 <p align="center">
   <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="500" alt="Coding Animation"/>
