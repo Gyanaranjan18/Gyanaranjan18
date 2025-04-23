@@ -1,9 +1,6 @@
 
 
 
-<h1 align="center">
- font=Fira+Code&weight=500&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hey,+I'm+Gyanaranjan+👋;Java+Fullstack+Developer;Spring+Boot+%7C+Microservices+%7C+React+Expert;I+build+backend+engines+and+frontend+magic.;Let's+create+legendary+projects+together!" />
-</h1>
 
 <!-- WAVE BANNER -->
 <p align="center">
