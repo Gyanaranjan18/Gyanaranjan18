@@ -20,7 +20,8 @@ Expertise:
   - Spring Boot, Microservices, REST APIs
   - ReactJS, JavaScript, HTML/CSS
   - MySQL, Docker, Git, IntelliJ
-FunFact: Loves building scalable apps ⚙️
+FunFact: Loves building scalable apps
+ ⚙️
 ChaiLevel: ☕☕☕☕☕ (Certified Chai-driven dev)
 ⚙️ Tech Arsenal
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,js,html,css,mysql,docker,git,github,vscode,intellij" /> </p>
