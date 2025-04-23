@@ -20,10 +20,12 @@ Expertise:
   - Spring Boot, Microservices, REST APIs
   - ReactJS, JavaScript, HTML/CSS
   - MySQL, Docker, Git, IntelliJ
-FunFact: Loves building scalable apps
- ⚙️
+FunFact: Loves building scalable apps ⚙️
+
 ChaiLevel: ☕☕☕☕☕ (Certified Chai-driven dev)
-⚙️ Tech Arsenal
+⚙️
+
+Tech Arsenal
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,js,html,css,mysql,docker,git,github,vscode,intellij" /> </p>
 📊 GitHub Activity
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gyanaranjan18&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="180px"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Gyanaranjan18&theme=tokyonight&hide_border=true" height="180px"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanaranjan18&layout=compact&theme=tokyonight&hide_border=true" height="150px"/> </p>
