@@ -1,27 +1,9 @@
-<!-- Header Title -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=FFB347&center=true&vCenter=true&width=800&lines=Hey,+I'm+Your+Name!;Java+Fullstack+Developer;Spring+Boot+%7C+React+%7C+Microservices+Explorer" />
-</h1>
-
-<!-- Hero Section -->
+<!-- 🌟 ANIMATED INTRO HEADER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coder-gif" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=16F7D1&center=true&vCenter=true&width=800&height=60&lines=Hey+there!+I'm+Your+Name+👋;Java+Fullstack+Developer;Spring+Boot+%7C+Microservices+%7C+React;Lover+of+clean+code+and+chaai+☕;Let's+Build+Something+Awesome+Together!" alt="Typing SVG" />
 </p>
 
----
-
-<!-- Quote -->
-<blockquote align="center">
-  <h3>"Code is like humor. When you have to explain it, it’s bad." – Cory House</h3>
-</blockquote>
-
----
-
-<!-- Personal Overview -->
-### 🌟 About Me
-
-```yaml
-Name: Your Name
-Title: Java Fullstack Developer
-Currently Building: Temple Management System (Spring Boot + Microservices)
-Skills: Java | Spring Boot | React | Microservices | MySQL | Docker
+<!-- ANIMATED BANNER GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" />
+</p>
