@@ -1,4 +1,4 @@
-# **🚀 Gyanaranjan Swain
+# **                       🚀 Gyanaranjan Swain
 
 
 <div align="center">
@@ -60,7 +60,7 @@
 ### **🎓 Student Management System**  
 ✔ **Tech Stack:** Core java+JDBC 
 
-🔗 **[View Project](https://your-project-demo-url.com)** | 📂 **[GitHub Repo](https://github.com/Gyanaranjan18/student-management-system)**  
+🔗 **[View Project](https://github.com/Gyanaranjan18/student-management-system.git)** | 📂 **[GitHub Repo](https://github.com/Gyanaranjan18/student-management-system)**  
 
 ### **💳 Card Service Details (In Progress)**  
 🛠 **Tech Stack:** Microservices, Spring Cloud, AWS  
