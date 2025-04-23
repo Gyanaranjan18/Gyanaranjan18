@@ -1,4 +1,5 @@
-# **🚀 Gyanaranjan18 - Java Full Stack Developer**  
+# **🚀 Gyanaranjan Swain
+I am a Java Full Stack Developer**  
 
 <div align="center">
 
